@@ -1,0 +1,10 @@
+.tab_state_active {
+  cursor: default;
+  font-size: 36px;
+}
+
+@media screen and (max-width: 700px) {
+  .tab_state_active {
+    font-size: 22px;
+  }
+}

@@ -1,0 +1,13 @@
+.cardsWrapper {
+  border-radius: 10px;
+  background-color: tomato;
+  width: 200px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  transition: all .4s ease-in;
+}
+
+.cardsWrapper:hover {
+  cursor: pointer;
+  box-shadow: 0 0 10px #f0f8ff;
+}

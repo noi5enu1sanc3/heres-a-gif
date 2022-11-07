@@ -1,0 +1,7 @@
+.search-gif-section {
+  background-color: #314d60;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

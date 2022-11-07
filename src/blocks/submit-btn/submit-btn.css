@@ -1,0 +1,17 @@
+.submit-btn {
+  min-width: 150px;
+  font-size: 24px;
+  color: #314d60;
+  transition: all .6s ease-in-out;
+  cursor: pointer;
+  border: none;
+}
+
+.submit-btn:hover {
+  transform: scale(105%);
+}
+
+.submit-btn:focus-visible {
+  outline: none;
+  box-shadow: 0 0 5px white;
+}

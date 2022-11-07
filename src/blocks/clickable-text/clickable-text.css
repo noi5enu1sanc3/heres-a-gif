@@ -1,0 +1,8 @@
+.clickable-text {
+  transition: all .4s ease-in;
+}
+
+.clickable-text:hover{
+  text-shadow: 3px 0 1px #f0f8ff;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.single-gif__img {
+  object-fit: cover;
+}
+
+@media screen and (max-width: 700px) {
+  .single-gif__img {
+    max-width: 90vw;
+  }
+}

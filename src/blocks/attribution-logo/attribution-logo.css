@@ -1,0 +1,14 @@
+.attribution-logo {
+  position: fixed;
+  right: 10px;
+  bottom: 20px;
+  display: block;
+  background-image: url(../../images/logo.png);
+  width: 100px;
+  height: 36px;
+  transition: all .7s ease-in-out;
+}
+
+.attribution-logo:hover {
+  transform: scale(110%);
+}

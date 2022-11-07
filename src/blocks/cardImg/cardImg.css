@@ -1,0 +1,10 @@
+.cardImg {
+  object-fit: cover;
+  max-width: 100%;
+  display: block;
+  transition: all .6s ease-in;
+}
+
+.cardImg:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,7 @@
+.pagination__arrow-right {
+  width: 0px;
+  height: 0px;
+  border-top: 30px solid transparent;
+  border-bottom: 30px solid transparent;
+  border-left: 50px solid #f0f8ff;
+}

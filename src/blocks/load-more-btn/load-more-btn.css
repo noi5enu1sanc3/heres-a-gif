@@ -1,0 +1,20 @@
+.load-more-btn {
+  border: none;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 120px;
+  min-height: 60px;
+  font-size: 22px;
+  color: #314d60;
+  transition: all .6s ease-in-out;
+  cursor: pointer;
+}
+
+.load-more-btn:hover {
+  transform: scale(105%);
+}
+
+.load-more-btn:focus-visible {
+  outline: none;
+  box-shadow: 0 0 5px white;
+}

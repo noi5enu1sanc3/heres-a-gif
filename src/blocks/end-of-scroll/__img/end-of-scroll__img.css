@@ -1,0 +1,4 @@
+.end-of-scroll__img {
+  width: 120px;
+  transform: rotateZ(180deg);
+}

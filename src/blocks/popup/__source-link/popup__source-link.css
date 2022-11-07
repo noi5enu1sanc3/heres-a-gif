@@ -1,0 +1,11 @@
+.popup__source-link {
+  text-decoration: none;
+  color: #fd8876;
+  font-size: 20px;
+  opacity: .8;
+  transition: all .4s ease-in;
+}
+
+.popup__source-link:hover {
+  opacity: 1;
+}

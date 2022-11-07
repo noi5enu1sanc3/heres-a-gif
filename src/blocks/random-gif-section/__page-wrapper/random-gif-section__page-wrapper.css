@@ -1,0 +1,7 @@
+.random-gif-section__page-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 50px;
+  box-sizing: border-box;
+}
